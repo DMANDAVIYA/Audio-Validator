@@ -1,0 +1,7 @@
+data_final/
+
+.csv
+.json
+venv/
+pretrained_models/
+

@@ -1,0 +1,10 @@
+torch==2.2.0
+torchaudio==2.2.0
+speechbrain==1.0.3
+numpy<2
+huggingface_hub<1.0
+librosa
+matplotlib
+scikit-learn
+pandas
+tqdm

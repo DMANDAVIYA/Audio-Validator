@@ -1,0 +1,537 @@
+[
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 19.44244623184204,
+      "consistency": 0.37326788902282715,
+      "flatness": 0.01577974297106266
+    },
+    "filename": "20daysofjune_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [
+      "Low SNR 14.8dB"
+    ],
+    "metrics": {
+      "snr": 14.756581783294678,
+      "consistency": 0.399964302778244,
+      "flatness": 0.021486520767211914
+    },
+    "filename": "agentofdoubt_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 21.947121620178223,
+      "consistency": 0.42918816208839417,
+      "flatness": 0.028023000806570053
+    },
+    "filename": "alexis_clear_audio_part1_dominant.wav"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.24"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 26.069841384887695,
+      "consistency": 0.24467219412326813,
+      "flatness": 0.03720000758767128
+    },
+    "filename": "apastelwitch_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 18.563942909240723,
+      "consistency": 0.39939892292022705,
+      "flatness": 0.01923120766878128
+    },
+    "filename": "arabiandalal_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.56151795387268,
+      "consistency": 0.4378144145011902,
+      "flatness": 0.02670196257531643
+    },
+    "filename": "bartholomewopl_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.72510528564453,
+      "consistency": 0.45232096314430237,
+      "flatness": 0.027473602443933487
+    },
+    "filename": "bartholomewopl_audio_part2_dominant.wav"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.17"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 23.45709800720215,
+      "consistency": 0.16521744430065155,
+      "flatness": 0.030895225703716278
+    },
+    "filename": "blondiettv_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 21.717748641967773,
+      "consistency": 0.3354634940624237,
+      "flatness": 0.04296330362558365
+    },
+    "filename": "caninehybrid_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 21.354539394378662,
+      "consistency": 0.3919857144355774,
+      "flatness": 0.02399967424571514
+    },
+    "filename": "capngalaguthrun_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.964645624160767,
+      "consistency": 0.429685115814209,
+      "flatness": 0.03363151103258133
+    },
+    "filename": "dawahaddict_audio_part1_dominant.wav"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.23"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 19.334089756011963,
+      "consistency": 0.2346487194299698,
+      "flatness": 0.042187999933958054
+    },
+    "filename": "dorkerific_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 20.896689891815186,
+      "consistency": 0.3631255328655243,
+      "flatness": 0.014304722659289837
+    },
+    "filename": "elysiagriffin_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 21.342077255249023,
+      "consistency": 0.26817426085472107,
+      "flatness": 0.021251965314149857
+    },
+    "filename": "foxtrot44_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 18.48687171936035,
+      "consistency": 0.37656569480895996,
+      "flatness": 0.01738174445927143
+    },
+    "filename": "hermesthenerd_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 18.820713758468628,
+      "consistency": 0.33650004863739014,
+      "flatness": 0.01720665581524372
+    },
+    "filename": "hermesthenerd_audio_part2_dominant.wav"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.22"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 15.700691938400269,
+      "consistency": 0.21630071103572845,
+      "flatness": 0.023210791870951653
+    },
+    "filename": "icre8nrg_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 22.373409271240234,
+      "consistency": 0.45577093958854675,
+      "flatness": 0.036354679614305496
+    },
+    "filename": "ikkisoma_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 22.540283203125,
+      "consistency": 0.46380099654197693,
+      "flatness": 0.04027824476361275
+    },
+    "filename": "ikkisoma_audio_part2_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 20.731687545776367,
+      "consistency": 0.4229689836502075,
+      "flatness": 0.015716319903731346
+    },
+    "filename": "imcantonio_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.631007432937622,
+      "consistency": 0.2901754081249237,
+      "flatness": 0.03880465775728226
+    },
+    "filename": "itsblack_friday_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 19.757604598999023,
+      "consistency": 0.3170434832572937,
+      "flatness": 0.018473653122782707
+    },
+    "filename": "javiimontalvo_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [
+      "Low SNR 13.4dB"
+    ],
+    "metrics": {
+      "snr": 13.350591659545898,
+      "consistency": 0.43258804082870483,
+      "flatness": 0.040880005806684494
+    },
+    "filename": "kjnetic_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 24.082396030426025,
+      "consistency": 0.25405678153038025,
+      "flatness": 0.020980369299650192
+    },
+    "filename": "ltfoxawesome_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.24543809890747,
+      "consistency": 0.44939717650413513,
+      "flatness": 0.024291114881634712
+    },
+    "filename": "makaylareads_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 21.638517379760742,
+      "consistency": 0.33542966842651367,
+      "flatness": 0.0277822595089674
+    },
+    "filename": "merlenau_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.464319467544556,
+      "consistency": 0.2547549903392792,
+      "flatness": 0.03866267949342728
+    },
+    "filename": "mkondich_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.378228902816772,
+      "consistency": 0.4991033673286438,
+      "flatness": 0.043527599424123764
+    },
+    "filename": "mrrrrrrrrmoke_audio_part2_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 20.791029930114746,
+      "consistency": 0.39424338936805725,
+      "flatness": 0.028737986460328102
+    },
+    "filename": "nebulaasmr_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.654337882995605,
+      "consistency": 0.4271240532398224,
+      "flatness": 0.024386361241340637
+    },
+    "filename": "nictrades_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 23.361191749572754,
+      "consistency": 0.34355786442756653,
+      "flatness": 0.025371167808771133
+    },
+    "filename": "omniskillz_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 22.22425937652588,
+      "consistency": 0.4044806659221649,
+      "flatness": 0.011635609902441502
+    },
+    "filename": "paalsky_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 22.268640995025635,
+      "consistency": 0.38192033767700195,
+      "flatness": 0.012957943603396416
+    },
+    "filename": "paalsky_audio_part2_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 19.299683570861816,
+      "consistency": 0.27795282006263733,
+      "flatness": 0.019343173131346703
+    },
+    "filename": "pastel_pages_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 18.302319049835205,
+      "consistency": 0.3482787013053894,
+      "flatness": 0.017407778650522232
+    },
+    "filename": "pastel_pages_audio_part2_dominant.wav"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.12"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 28.767166137695312,
+      "consistency": 0.12087135761976242,
+      "flatness": 0.01644887402653694
+    },
+    "filename": "raeldontv_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 23.221659660339355,
+      "consistency": 0.31872087717056274,
+      "flatness": 0.031347036361694336
+    },
+    "filename": "runnerguy2489_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 16.22130036354065,
+      "consistency": 0.37914952635765076,
+      "flatness": 0.02236109785735607
+    },
+    "filename": "samajestay_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 15.372579097747803,
+      "consistency": 0.3158779740333557,
+      "flatness": 0.0197416041046381
+    },
+    "filename": "sarapyon1228_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [
+      "Low SNR 14.7dB"
+    ],
+    "metrics": {
+      "snr": 14.720895290374756,
+      "consistency": 0.4421491324901581,
+      "flatness": 0.0033974836114794016
+    },
+    "filename": "shibliofficial_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 21.63595199584961,
+      "consistency": 0.4546637237071991,
+      "flatness": 0.0214878898113966
+    },
+    "filename": "strangeland_elf_audio_part1_dominant.wav"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.22"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 22.664718627929688,
+      "consistency": 0.22164416313171387,
+      "flatness": 0.02161792479455471
+    },
+    "filename": "thesighfigirl_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 20.566182136535645,
+      "consistency": 0.2881906032562256,
+      "flatness": 0.03337867185473442
+    },
+    "filename": "tjhallofficial_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 16.429166793823242,
+      "consistency": 0.39964884519577026,
+      "flatness": 0.018900269642472267
+    },
+    "filename": "tracethat_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 16.301883459091187,
+      "consistency": 0.33363550901412964,
+      "flatness": 0.014316755346953869
+    },
+    "filename": "trustin_keysus_audio_part1_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 16.444379091262817,
+      "consistency": 0.35187795758247375,
+      "flatness": 0.014911424368619919
+    },
+    "filename": "trustin_keysus_audio_part2_dominant.wav"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 19.98061180114746,
+      "consistency": 0.3069643974304199,
+      "flatness": 0.017817489802837372
+    },
+    "filename": "wayofthetempest_audio_part1_dominant.wav"
+  }
+]

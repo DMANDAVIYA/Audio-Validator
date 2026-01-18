@@ -1,0 +1,206 @@
+[
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.10"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 54.594011306762695,
+      "consistency": 0.09881667047739029,
+      "flatness": 0.0277390219271183
+    },
+    "filename": "canonchronicler_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.13"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 35.18298625946045,
+      "consistency": 0.13252243399620056,
+      "flatness": 0.02721155621111393
+    },
+    "filename": "charizzaard_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.16"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.624820470809937,
+      "consistency": 0.15735849738121033,
+      "flatness": 0.023124773055315018
+    },
+    "filename": "elaf8sh_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.08"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 22.253191471099854,
+      "consistency": 0.0753851979970932,
+      "flatness": 0.027943745255470276
+    },
+    "filename": "marlibs3_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.08"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 24.188811779022217,
+      "consistency": 0.078574538230896,
+      "flatness": 0.027416495606303215
+    },
+    "filename": "marlibs3_audio_part2.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.10"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 23.06466817855835,
+      "consistency": 0.10091392695903778,
+      "flatness": 0.023336302489042282
+    },
+    "filename": "micapili_audio_part1.mp3"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 20.819413661956787,
+      "consistency": 0.40082690119743347,
+      "flatness": 0.0420619435608387
+    },
+    "filename": "mrrrrrrrrmoke_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.23"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 31.62815809249878,
+      "consistency": 0.23482686281204224,
+      "flatness": 0.17987416684627533
+    },
+    "filename": "mygryphon_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.15"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 16.773399114608765,
+      "consistency": 0.148904949426651,
+      "flatness": 0.018285011872649193
+    },
+    "filename": "patricialazaro_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.08"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 48.51458549499512,
+      "consistency": 0.08119624108076096,
+      "flatness": 0.08386848866939545
+    },
+    "filename": "ricarettes_audio_part1.mp3"
+  },
+  {
+    "valid": true,
+    "reasons": [],
+    "warnings": [],
+    "metrics": {
+      "snr": 24.09588098526001,
+      "consistency": 0.3705119788646698,
+      "flatness": 0.02004874311387539
+    },
+    "filename": "rootcatz_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.15"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 22.062242031097412,
+      "consistency": 0.1527915596961975,
+      "flatness": 0.03153436258435249
+    },
+    "filename": "shannoncsw_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.10"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 17.755930423736572,
+      "consistency": 0.10450740903615952,
+      "flatness": 0.018785376101732254
+    },
+    "filename": "stillarobyn_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.12"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 15.919090509414673,
+      "consistency": 0.11835475265979767,
+      "flatness": 0.011023311875760555
+    },
+    "filename": "supremethottie_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.18"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 16.383326053619385,
+      "consistency": 0.17560739815235138,
+      "flatness": 0.023587634786963463
+    },
+    "filename": "thekotacola_audio_part1.mp3"
+  },
+  {
+    "valid": false,
+    "reasons": [
+      "Consistency 0.08"
+    ],
+    "warnings": [],
+    "metrics": {
+      "snr": 28.10696840286255,
+      "consistency": 0.08493918180465698,
+      "flatness": 0.03444460779428482
+    },
+    "filename": "trap_jesus_audio_part1.mp3"
+  }
+]
